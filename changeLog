@@ -1,0 +1,5 @@
+Version 1.6.1
+	- Commented out the print in USmpgClasses.py that was logging request and response data to the log server
+
+Version 1.6.0 
+- Initial Release
